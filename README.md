@@ -100,10 +100,3 @@ uv run jupyter notebook
 ✱ Literature SOTA; requires separate GAN pipeline
 
 <img src="assets/model_comparison.png" width="680" alt="Model comparison chart"/>
-
-## Team Members
-
-- Purav Parab
-- Hossein Khoshnevis
-- Sam Jafari
-- Shanthanu Gopikrishnan
