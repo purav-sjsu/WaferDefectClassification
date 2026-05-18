@@ -2,7 +2,10 @@
 
 In this project, we trained and evaluated various machine learning models to classify defect patterns on semiconductor wafers.
 
-<img src="assets/class_samples.png" width="400" alt="Sample wafer maps for each defect class"/>
+**Interactive Wafer Defect Classifier**
+- Live Demo: [https://waferdefects.vercel.app/](https://waferdefects.vercel.app/) 
+- Github [https://github.com/Shanthanu-g/waferanalyzer](https://github.com/Shanthanu-g/waferanalyzer)
+
 
 ## Dataset
 
@@ -13,6 +16,8 @@ We used the [WM-811K Wafer Map](https://www.kaggle.com/datasets/qingyi/wm811k-wa
 (0: outside, 1: good, 2: defective)
 - 9 classes:
 `None`, `Edge-Ring`, `Edge-Loc`, `Center`, `Loc`, `Scratch`, `Random`, `Donut`, `Near-Full`
+
+<img src="assets/class_samples.png" width="400" alt="Sample wafer maps for each defect class"/>
 
 ### Download
 
@@ -95,3 +100,10 @@ uv run jupyter notebook
 ✱ Literature SOTA; requires separate GAN pipeline
 
 <img src="assets/model_comparison.png" width="680" alt="Model comparison chart"/>
+
+## Team Members
+
+- Purav Parab
+- Hossein Khoshnevis
+- Sam Jafari
+- Shanthanu Gopikrishnan
