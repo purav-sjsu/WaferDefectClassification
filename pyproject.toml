@@ -19,6 +19,7 @@ dependencies = [
     "umap-learn>=0.5.12",
     "kagglehub>=1.0.0",
     "scikit-image>=0.25.2",
+    "ipykernel>=7.2.0",
 ]
 
 [tool.uv]
